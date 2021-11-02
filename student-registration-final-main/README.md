@@ -6,4 +6,4 @@ Students are important and main part of any educational institute. But the insti
 4. Through this online system we can overcome many problems and save time and effort. 
 5. our platform  ease day to day task for maintaining different records and other work becomes easy and time saving for the administrator and also for students.
 
-More info about project - https://sway.office.com/elApe7NTDNCVg1YI?ref=Link
+
